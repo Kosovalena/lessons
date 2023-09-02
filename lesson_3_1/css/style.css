@@ -1,0 +1,21 @@
+.text1+p {
+	color: yellow;
+}
+.text1 {
+	color: red;}
+.text2 {
+	color: springgreen;
+}
+.text-orang {
+	color: orange;
+}
+.text-blue {
+color: blue;
+}
+.properties,
+.materials {
+	color: palevioletred;
+}
+.text-header {
+	color: fuchsia;
+}
