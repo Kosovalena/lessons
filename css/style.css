@@ -1,0 +1,95 @@
+.title-red {
+	color: red;
+	font-family: "Roboto";
+	font-weight: 700;
+}
+.text-roboto {
+	color: pink;
+	font-family: "Roboto";
+	font-weight: 700;
+}
+.larsseit {
+	font-family: "Larsseit";
+	font-weight: 700;
+}
+.pink {
+	color: pink;
+}
+.green {
+	color: green;
+}
+.yellow {
+	color: yellow;
+}
+.roboto {
+	font-family: "Roboto";
+	font-weight: 500;
+}
+.blue {
+	color: blue;
+	font-family: "Larsseit";
+	font-weight: 700;
+}
+.brown {
+	color: brown;
+}
+.orange {
+	color: orange;
+	font-family: "Larsseit";
+	font-weight: 700;
+}
+.lato {
+	font-family: "Lato";
+	font-weight: 900;
+}
+.lato .list1 {
+	color: greenyellow;
+}
+.purple {
+	color: purple;
+}
+.red {
+	color: red;
+}
+.blue .green {
+	font-family: "Lato";
+	font-weight: 900;
+	font-size: larger;
+}
+.blue .pink {
+	font-family: "Larsseit";
+	font-weight: 400;
+}
+.lato1 {
+	font-family: "Lato";
+	font-weight: 900;
+}
+.lime,
+.plum,
+.ultramarine,
+.maroon,
+.list {
+	font-family: "Lato";
+	font-weight: 400;
+}
+.plum h2 {
+	color: blue;
+}
+.color {
+	color: yellow;
+}
+.lime {
+	color: lime;
+}
+.azure + p {
+	color: red;
+}
+.ultramarine {
+	color: rgba(0, 0, 255, 0.603);
+}
+.maroon {
+	color: pink;
+}
+.link {
+	color: blue;
+}
