@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=PlayfairDisplay&display=swap');
+
+@font-face {
+	font-family: "Kurale";
+	src:
+		url("../fonts/Kurale-Regular.woff2") format("woff2"),
+		url("../fonts/Kurale-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "AstrumScript";
+	src:
+		url("../fonts/AstrumScriptCyrillic_Light.woff2") format("woff2"),
+		url("../fonts/AstrumScriptCyrillic_Light.woff") format("woff");
+	font-display: swap;
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: "AstrumScript";
+	src:
+		url("../fonts/AstrumScriptCyrillic_Regular.woff2") format("woff2"),
+		url("../fonts/AstrumScriptCyrillic_Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "AstrumScript";
+	src:
+		url("../fonts/AstrumScriptCyrillic_Bold.woff2") format("woff2"),
+		url("../fonts/AstrumScriptCyrillic_Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: italic;
+}
