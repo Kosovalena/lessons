@@ -1,0 +1,73 @@
+body {
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.6;
+	color: #424551;
+	background:
+		url("../img/AirPods_Comparison_Press_Image.jpg") no-repeat center / cover fixed,
+		radial-gradient(circle, rgba(168, 169, 170, 0.24693627450980393) 65%, rgba(118, 159, 159, 1) 100%);
+}
+[class*="__container"] {
+	max-width: 810px;
+	margin: 0 auto;
+}
+.statistics1 {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 1.3;
+	margin: 20px 0 92px 0;
+}
+.image {
+	margin-bottom: 60px;
+	transition: all 1s ease 0s;
+}
+.image:hover {
+	opacity: 0;
+	transition: all 1s ease 0s;
+}
+.image img {
+	border-radius: 30px;
+}
+.vulputate {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	margin-bottom: 24px;
+}
+
+.facilisi {
+	margin-bottom: 48px;
+}
+.facilisi-1 {
+	padding-bottom: 10px;
+}
+.lorem {
+	color: #1e212c;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+	padding: 0 0 0 58px;
+	margin-bottom: 48px;
+}
+.mauris {
+	margin-bottom: 24px;
+}
+.mauris-1 {
+	margin-bottom: 24px;
+}
+.list-all li {
+	padding: 0 0 0 32px;
+	margin-bottom: 4px;
+}
+.enim {
+	margin-bottom: 65px;
+}
+.theend {
+	text-align: center;
+	margin-bottom: 65px;
+}
+.enim p {
+	margin-bottom: 20px;
+}
