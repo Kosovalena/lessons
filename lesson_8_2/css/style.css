@@ -1,0 +1,194 @@
+body {
+	color: #424551;
+	font-family: "Lato", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 160%;
+}
+[class*="__container"] {
+	max-width: 1230px;
+	margin: 0 auto;
+}
+.about {
+	margin-bottom: 48px;
+}
+.abaut-title {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 130%;
+	margin-bottom: 40px;
+}
+.lern {
+	margin-bottom: 204px;
+}
+.lern-title {
+	color: #1e212c;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 150%;
+	margin-bottom: 24px;
+}
+/* список */
+.item-lern li:before {
+	background: url("../img/icons/check.svg") 0 0 no-repeat;
+	content: "";
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	padding: 6px 0 0 32px;
+}
+.item-lern li:not(:last-child) {
+	margin-bottom: 4px;
+}
+
+.course-title {
+	color: #1e212c;
+	font-weight: 700;
+	line-height: 150%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-bottom: 8px;
+}
+.cody {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 130%;
+	margin-bottom: 16px;
+}
+
+.course {
+	margin-bottom: 50px;
+}
+.course p:first-of-type {
+	color: #787a80;
+	font-size: 20px;
+	line-height: 150%;
+	display: inline-block;
+	margin-bottom: 37px;
+}
+.item-course li {
+	font-weight: 700;
+	line-height: 160%;
+}
+.item-course li:nth-child(1)::before {
+	background: url("../img/icons/Star.svg") 0 0 no-repeat;
+	content: "";
+	width: 16px;
+	height: 16px;
+	padding: 0 0 0 26px;
+}
+.item-course li:nth-child(2)::before {
+	background: url("../img/icons/Play.svg") 0 0 no-repeat;
+	content: "";
+	width: 16px;
+	height: 16px;
+	padding: 0 0 0 26px;
+}
+.item-course li:nth-child(3)::before {
+	background: url("../img/icons/Person.svg") 0 0 no-repeat;
+	content: "";
+	width: 16px;
+	height: 16px;
+	padding: 0 0 0 26px;
+}
+.item-course li:not(:last-child) {
+	margin-bottom: 4px;
+}
+.course ul {
+	margin-bottom: 32px;
+}
+
+/* часть 2 практика самостоятельная */
+.about1 h1 {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 130%;
+	margin-bottom: 40px;
+}
+.about1 p {
+	color: #424551;
+	margin-bottom: 48px;
+}
+.you h2 {
+	color: #1e212c;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 150%;
+	margin-bottom: 24px;
+}
+.you {
+	margin-bottom: 184px;
+}
+.itemnew li::before {
+	content: "";
+	background: url("../img/icons/check.svg") 0 0 no-repeat;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	padding: 6px 0 0 32px;
+}
+.itemnew li:not(:last-child) {
+	margin-bottom: 4px;
+}
+.image {
+	margin-bottom: 50px;
+}
+.curator p:first-child {
+	color: #1e212c;
+	font-weight: 700;
+	line-height: 150%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	margin-bottom: 8px;
+}
+.curator h3 {
+	color: #1e212c;
+	font-size: 46px;
+	font-weight: 900;
+	line-height: 130%;
+	margin-bottom: 16px;
+}
+.curator p:nth-of-type(2) {
+	color: #787a80;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 150%;
+	margin-bottom: 32px;
+}
+.item-icons {
+	margin-bottom: 32px;
+}
+.item-icons li {
+	font-weight: 700;
+}
+.item-icons li:not(:last-child) {
+	margin-bottom: 4px;
+}
+.item-icons li:nth-child(1)::before {
+	content: "";
+	display: inline-block;
+	background: url("../img/icons/Star.svg") 0 0 no-repeat;
+	width: 16px;
+	height: 16px;
+	padding: 0px 0 0 24px;
+}
+.item-icons li:nth-child(2)::before {
+	content: "";
+	display: inline-block;
+	background: url("../img/icons/Play.svg") 0 0 no-repeat;
+	width: 16px;
+	height: 16px;
+	padding: 0px 0 0 24px;
+}
+.item-icons li:nth-child(3)::before {
+	content: "";
+	display: inline-block;
+	background: url("../img/icons/Person.svg") 0 0 no-repeat;
+	width: 16px;
+	height: 16px;
+	padding: 0px 0 0 24px;
+}
